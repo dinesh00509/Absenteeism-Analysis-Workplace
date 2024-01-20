@@ -13,3 +13,13 @@ This repository contains the code and documentation for my first data science pr
 - **Modeling**: Developing logistic regression model with scikit-learn to forecast future absenteeism.
 - **Visualizations**: Communicating insights through visualizations using Tabelau Public for better understanding.
 
+
+# Here's a visualization from my project:
+
+![Transportation & childrens](images/Transport.png)
+
+![Age vs Probability](images/AgeXProbability.png)
+
+![Reasons vs Probability](images/Reasons.png)
+
+
